@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Pavin
-#### I am a full-stack developer 
+#### I am a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Hi there. My friends call me Pav but for you, Call me Pavin. I'm a Student, front-end developer, troublemaker, aspiring entrepreneur, and future Chinese speaker.
 I'm intrigued by design, traveling, photography, music, writing, art, fabulous food, and good conversations.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / DJANGO / PYTHON / C# / GIT VERSION CONTROL / NODE etc
 
 - 🔭 I’m currently working on a lot of things, View some in my repositories 
 - 🌱 I’m currently learning Django and Solidity 
