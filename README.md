@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pavin
 #### I am a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Hi there. My friends call me Pav but for you, Call me Pavin. I'm a Student, full-stack developer, troublemaker, aspiring entrepreneur, and future Chinese speaker.
+Hi there. My friends call me Pav. A full-stack developer, troublemaker, entrepreneur, and future Chinese speaker.
 I'm intrigued by design, traveling, photography, music, writing, art, fabulous food, and good conversations.
 
 Skills: REACT / JS / HTML / CSS / DJANGO / PYTHON / C# / GIT VERSION CONTROL / NODE etc
