@@ -11,8 +11,8 @@ Skills: REACT / JS / HTML / CSS / DJANGO / PYTHON / C# / GIT VERSION CONTROL / N
 - 📫 How to reach me: pavkiptoo@gmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I'm good at git but not sure why I hardly use it.
-- Medium :(https://medium.com/@pavkiptoo)
-- Youtube :(https://youtube.com/@pavprograms)
+- Medium : https://medium.com/@pavkiptoo
+- Youtube :https://youtube.com/@pavprograms
 
 
 [<img src='https://cdn.jsdeliv)r.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bl4ckh401)  
