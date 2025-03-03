@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Pavin
-As a DeFi Analyst and a Solidity(Blockchain) Developer, I combine my passion for blockchain technology and software development with my knack for fostering vibrant online communities.
-
-I love creating smart contracts, NFT marketplaces, and dApps on various blockchain platforms, such as Ethereum, BSC, and Polygon. I also leverage popular SDKs, such as Moralis and Thirdweb e.t.c , to enhance the user experience and functionality of my applications. Additionally, I develop Telegram bots for trading automation, such as sniper bots, sandwicher bots, and copy-trader bots. I am always eager to learn new trends and innovations in the crypto space, and I enjoy sharing my insights and engaging with users on various social media channels. My goal is to bring innovation to life through blockchain and to empower people with decentralized solutions.
+A DeFi Analyst and a Blockchain Developer.
+I love developing bots, if you have something we can work together on, HMU.
 
 Skills: DeFi Anaysis | Next js | Javascript | Web3js | Ethersjs | Typescript | React Native | Git & Github | Solidity | Trading
 
 - 💬 Ask me about Anything De-Fi and blockchain(Especially blockchain).
 - 📫 How to reach me: pavkiptoo@gmail.com 
-- 😄 Pronouns: Degen
+- 😄 Degen
 - ⚡ Fun fact: I'm good at git but not sure why I hardly use it.
 - Medium : https://medium.com/@pavkiptoo
 - Youtube :https://youtube.com/@pavprograms
